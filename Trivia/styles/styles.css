@@ -1,0 +1,66 @@
+
+
+body{
+	background-color: white;
+
+}
+
+
+
+
+
+.flex-container {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;  
+}
+
+.big-btn {
+        width: 90px;
+        height: 40px;
+    }
+
+#quiz{
+	color: white;
+}
+
+
+  .Question{
+  		height: 57px;
+  		width: 100%;
+  		border: 1px solid black;
+  		margin-bottom: 10px;
+  		color: white;
+  }
+
+ #theFirstChoice {
+ 	height: 58px;
+ 	width:  130px;
+ 	margin: 0px 10px 0px 10px; 
+	
+}
+
+
+#theSecondChoice {
+	height: 58px;
+ 	width:  130px;
+	margin: 10px 10px 10px 10px; 
+
+}
+
+
+#theThirdChoice{
+	height: 58px;
+ 	width:  130px;
+	margin: 0px 10px 10px 10px;
+
+}
+
+#theFourthChoice{
+	height: 58px;
+ 	width:  133px;
+ 	margin: 0px 10px 10px 10px;
+	
+}
+
+
